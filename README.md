@@ -9,15 +9,10 @@ It's an open source and free app where you can manage your daily or weekly habit
 
 
 
-## 📢 Getting Started
-
-You can install the latest APK from the [Releases tab](https://github.com/Mazahir26/koduko/releases/latest). You can also download the latest APK from [IzzyOnDroid repo](https://apt.izzysoft.de/fdroid/index/apk/com.example.koduko) within a F-Droid client.
-
-Alternatively you can build the app yourself. See below for further information.
 
 ## 🔨 Build
 
-- Clone the repo using `git clone https://github.com/Mazahir26/koduko.git`
+
 
 - Install all the dependencies `flutter pub get`
 
@@ -40,17 +35,3 @@ Alternatively you can build the app yourself. See below for further information.
 ## 🐞 Found a Bug 
 
 
-
-If you found any bugs, please open an issue
- or [contact me](http://mazahir26.github.io/)
- 
-_The app has only been tested on Android._
-## 📝 License 
-
-This project is licensed under the [MIT License](LICENSE.md).
-
-## ❤️ Thank You 
-
-Thanks for checking out my project, I would love to hear feedback, you can [contact](http://mazahir26.github.io/) me via Mail or Telegram.
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mazahir)
